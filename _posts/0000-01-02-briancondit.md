@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Board man gets ##PAID
 Use the left arrow to go back!
